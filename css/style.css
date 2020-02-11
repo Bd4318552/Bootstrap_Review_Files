@@ -33,13 +33,13 @@ body {
 }
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #1ebba3;
+    color: #0e02e3; 
 }
 
 /*--- Landing Page ---*/
 
 .home-inner {
-    background-image: url(../img/guccibg.jpg);
+    background-image: url(../img/R6SBGG.jpg);
 }
 .caption{
     width: 100%;
@@ -88,13 +88,13 @@ body {
     padding: .6rem 1.2rem;
     margin: 1rem;
     color: white;
-    background-color: #1ebba3;
-    border-color: #1ebba3;
+    background-color: #0e02e3;
+    border-color: #0e02e3;
 }
 
 .btn-secondary:hover {
-    background-color: #189582;
-    border-color: #1ebba3;
+    background-color: #0e02e3;
+    border-color:#0e02e3;
 }
 
 /* Features Section */
@@ -115,12 +115,12 @@ h3.heading {
 .heading-underline{
     width: 3rem;
     height: .2rem;
-    background-color: #1ebba3;
+    background-color: #0e02e3;
     margin: 0 auto 2rem;
 }
 
 .feature svg.svg-inline--fa {
-color: #1ebba3;
+color: #0e02e3;
 }
 
 .feature h3 {
@@ -135,7 +135,7 @@ color: #1ebba3;
 
 /* Resources Section */
 .fixed {
-    background-image: url(../img/apple.png);
+    background-image: url(../img/kobebg.jpg);
     z-index: -1;
 }
 .dark {
@@ -158,12 +158,12 @@ margin-top: 1.5rem;
 }
 
 .blockquote .svg-inline--fa {
-    color: #1ebba3;
+    color: #0e02e3;
     margin: 1rem;
 }
 
 .clients-hr {
-    border-top: .5rem solid #1ebba3;
+    border-top: .5rem solid #0e02e3;
 }
 
 /* Contact Section */
@@ -189,7 +189,7 @@ footer svg.svg-inline--fa{
 }
 
 footer svg.svg-inline--fa:hover {
-    color: #1ebba3 !important;
+    color: #0e02e3 !important;
 }
 
 hr.socket {
